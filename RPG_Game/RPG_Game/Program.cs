@@ -11,19 +11,21 @@
     {
 
     }
-
-    public abstract class Item
+    
+    public abstract class Enemy : Character
     {
-        public string Name { get; protected set; }
-        public string Desscription { get; protected set; }
+        private int _axperienceReward;
+        private List<Item> _loot;
 
-        protected Item(string name, string desscription)
+        public int ExperienceReward
         {
-            Name = name;
-            Desscription = desscription;
+            get => _axperienceReward;
+            protected set => _axperienceReward = value;
         }
 
-        public abstract void Use(Player player);
+        protected Enemy(string name, int helth, int strengh) : base(name, helth, strengh)
+        {
+        }
     }
 
     internal class Program
