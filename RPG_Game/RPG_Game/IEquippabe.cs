@@ -1,6 +1,6 @@
 ﻿namespace RPG_Game
 {
-    public interface IEquippabe
+    public interface IEquippable
     {
         string Name { get; }
         void Equip(Player player);
