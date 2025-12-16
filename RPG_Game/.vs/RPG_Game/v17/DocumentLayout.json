@@ -46,8 +46,7 @@
               "RelativeToolTip": "RPG_Game\\Item.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T10:07:32.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-11T10:07:32.378Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "RPG_Game\\ISpellCast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T10:07:29.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-11T10:07:29.275Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "RPG_Game\\IEquippabe.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T10:07:15.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-11T10:07:15.642Z"
             },
             {
               "$type": "Document",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "RPG_Game\\Enemy.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T10:07:07.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-11T10:07:07.125Z"
             },
             {
               "$type": "Document",
@@ -98,8 +94,7 @@
               "RelativeToolTip": "RPG_Game\\Character.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAcwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T10:06:57.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-11T10:06:57.465Z"
             },
             {
               "$type": "Document",
@@ -109,7 +104,7 @@
               "RelativeDocumentMoniker": "RPG_Game\\Program.cs",
               "ToolTip": "C:\\Git\\Rpg_game_final_Progect\\RPG_Game\\RPG_Game\\Program.cs",
               "RelativeToolTip": "RPG_Game\\Program.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAnwD8AAAANAAAA",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAswBoBAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T10:39:02.992Z",
               "EditorCaption": ""
