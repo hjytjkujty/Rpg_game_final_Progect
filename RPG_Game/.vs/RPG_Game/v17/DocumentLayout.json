@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{B7EF3514-FB75-4879-A88E-9FCF56A9CDD9}|RPG_Game\\RPG_Game.csproj|solutionrelative:rpg_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B7EF3514-FB75-4879-A88E-9FCF56A9CDD9}|RPG_Game\\RPG_Game.csproj|c:\\git\\rpg_game_final_progect\\rpg_game\\rpg_game\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7EF3514-FB75-4879-A88E-9FCF56A9CDD9}|RPG_Game\\RPG_Game.csproj|solutionrelative:rpg_game\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B7EF3514-FB75-4879-A88E-9FCF56A9CDD9}|RPG_Game\\RPG_Game.csproj|c:\\git\\rpg_game_final_progect\\rpg_game\\rpg_game\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7EF3514-FB75-4879-A88E-9FCF56A9CDD9}|RPG_Game\\RPG_Game.csproj|solutionrelative:rpg_game\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,11 +38,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Git\\Rpg_game_final_Progect\\RPG_Game\\RPG_Game\\Weapon.cs",
+              "RelativeDocumentMoniker": "RPG_Game\\Weapon.cs",
+              "ToolTip": "C:\\Git\\Rpg_game_final_Progect\\RPG_Game\\RPG_Game\\Weapon.cs",
+              "RelativeToolTip": "RPG_Game\\Weapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:49:21.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Git\\Rpg_game_final_Progect\\RPG_Game\\RPG_Game\\Item.cs",
               "RelativeDocumentMoniker": "RPG_Game\\Item.cs",
@@ -50,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ISpellCast.cs",
               "DocumentMoniker": "C:\\Git\\Rpg_game_final_Progect\\RPG_Game\\RPG_Game\\ISpellCast.cs",
               "RelativeDocumentMoniker": "RPG_Game\\ISpellCast.cs",
@@ -62,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IEquippabe.cs",
               "DocumentMoniker": "C:\\Git\\Rpg_game_final_Progect\\RPG_Game\\RPG_Game\\IEquippabe.cs",
               "RelativeDocumentMoniker": "RPG_Game\\IEquippabe.cs",
@@ -74,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Git\\Rpg_game_final_Progect\\RPG_Game\\RPG_Game\\Enemy.cs",
               "RelativeDocumentMoniker": "RPG_Game\\Enemy.cs",
@@ -86,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Character.cs",
               "DocumentMoniker": "C:\\Git\\Rpg_game_final_Progect\\RPG_Game\\RPG_Game\\Character.cs",
               "RelativeDocumentMoniker": "RPG_Game\\Character.cs",
@@ -104,7 +120,7 @@
               "RelativeDocumentMoniker": "RPG_Game\\Program.cs",
               "ToolTip": "C:\\Git\\Rpg_game_final_Progect\\RPG_Game\\RPG_Game\\Program.cs",
               "RelativeToolTip": "RPG_Game\\Program.cs",
-              "ViewState": "AQIAAIwAAAAAAAAAAAAswBoBAAAJAAAA",
+              "ViewState": "AQIAALIAAAAAAAAAAAAwwL8AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T10:39:02.992Z",
               "EditorCaption": ""
